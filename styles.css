@@ -1,0 +1,56 @@
+body {
+	font-family: 'Helvetica';
+	position: absolute;
+	background-color: #fffcf3;
+}
+title {
+	text-align: center;
+	font-family: Arial;
+	font-size: 30pt;
+	font-weight: bold;
+	margin: 20px 40px;
+	border-radius: 10px;
+}
+.table1 {
+	border: 1px solid black;
+	margin: 5% 10% 10% 10%;
+	padding: 30px;
+	background-color: #fffcf3;
+	border-radius: 3px;
+}
+.right {
+	text-align: right;
+}
+.left {
+	width: 70%;
+}
+.table2 {
+	margin: 3% 7% 7% 7%;
+}
+.left_table1 {
+	padding: 0 0 0 5%;
+}
+.right_table1 {
+	padding: 0 5% 0 0;
+}
+.main {
+	margin: auto;
+	width: 60%;
+	padding: 2px;
+	background-color: #fffcf3;
+	position: relative;
+	border-radius: 3px;
+	border: 1px solid black;
+}
+.spoiler-body {
+	visibility: none;
+}
+button {
+	padding: 5px 50px 5px 50px;
+	margin: auto; 
+}
+#Time {
+	margin: auto;
+	width: 60%;
+	padding: 70px 50px 5px 50px;
+}
